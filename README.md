@@ -1,44 +1,45 @@
-# HI, c'est Yassine
+# 👋 Salut, moi c'est Yassine
 
-**Développeur Front-end Vue.js** certifié Access42. Je conçois des interfaces modernes, accessibles et conformes, avec une expertise croissante sur Nuxt.
-
----
-
-## Certifications
-
-[![Opquast](badge-opquast.png)]([lien-vers-ton-certif](https://directory.opquast.com/fr/certificat/8WI3MV/)) **Opquast Advanced** (840/1000) - Certification Opquast - Maîtrise de la Qualité en projet Web  
-[![Acess42](badge-acess42.png)]([lien-vers-ton-certif](https://certificate.bcdiploma.com/check/952F7562DF5290637800399B9190EB574369556E05DE807931D39567928D9801SzRIeEVOMWxiMlMrbGNCSVErcnJTbjd6SnkzaUZsU2xYOUJMOEJ0TUdvMnMybHNS)) **Acess42** - Développer des sites web accessibles et conformes au RGAA 
+**Développeur Front-end Vue.js** certifié accessibilité et qualité web. Je conçois des interfaces modernes, accessibles et conformes, avec une expertise croissante sur Nuxt.
 
 ---
 
-## Projets phares
+## 🎓 Certifications
 
-### [📝 QuizGen AI](https://github.com/yassine-mahjoubi/quiz)
+**[Certification Opquast](https://directory.opquast.com/fr/certificat/8WI3MV/)** - Maîtrise de la Qualité en projet Web  
+**[Acess42 - Développer des sites web accessibles](https://certificate.bcdiploma.com/check/952F7562DF5290637800399B9190EB574369556E05DE807931D39567928D9601SzRIeEVOMWxiMlMrbGNCSVErcnJTbjd6SnkzaUZsU2xYOUJMOEJ0TUdvMnMybHNS)** - RGAA
+
+---
+
+## 🚀 Projets phares
+
+### [QuizGen AI](https://github.com/yassine-mahjoubi/quiz)
 Générateur de quiz intelligent basé sur l'IA avec galerie communautaire. Partage et réutilise des quiz au format JSON.
 
-**Tech:** Vue.js · API Claude/OpenAI · JSON
+**Tech:** Vue.js · Supabase · API Gemini · JSON · RGAA
 
 [🔗 Démo live](https://yassine-mahjoubi-quiz-ia-generator.netlify.app/) | [📂 Code](https://github.com/yassine-mahjoubi/quiz)
 
 ---
 
-### [🧠 Biais Cognitifs](https://github.com/yassine-mahjoubi/biais-cognitifs)
-Application éducative explorant les biais cognitifs avec système de recherche et découverte aléatoire.
+### [Biais Cognitifs](https://github.com/yassine-mahjoubi/biais-cognitifs)
+Wep app éducative explorant les biais cognitifs avec système de recherche et découverte aléatoire.
 
-**Tech:** Vue.js · Search · UX  · JSON
+**Tech:** Vue.js · UX  · JSON · RGAA
 
 [🔗 Démo live](https://yassine-mahjoubi.github.io/biais-cognitifs/) | [📂 Code](https://github.com/yassine-mahjoubi/biais-cognitifs)
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-**Frontend:** Vue 3 · Nuxt (en cours) · HTML/CSS  
-**Qualité:** RGAA · WCAG · Opquast · Lighthouse  
-**Outils:** Vite · Git · Figma
+**Frontend:** TypeScript · JavaScript · Vue 3 · Nuxt (en cours) · HTML5 · SCSS/Sass · CSS
+**Backend/Services:** Supabase · CMS Headless · Drupal
+**Qualité/Accessibilité:** Audit RGAA · Opquast · SEO technique · DSFR
+**Outils:** Vite · Git · Figma · Docker · Linux
 
 ---
 
-## Contact
+## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/yassine-mahjoubi/) · [Card](https://yassine-mahjoubi.carrd.co/)
