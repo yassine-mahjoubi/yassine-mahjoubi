@@ -1,17 +1,17 @@
-# 👋 Salut, moi c'est Yassine
+# HI, c'est Yassine
 
-**Développeur Front-end Vue.js** certifié accessibilité et qualité web. Je conçois des interfaces modernes, accessibles et conformes, avec une expertise croissante sur Nuxt.
+**Développeur Front-end Vue.js** certifié Access42. Je conçois des interfaces modernes, accessibles et conformes, avec une expertise croissante sur Nuxt.
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 [![Opquast](badge-opquast.png)]([lien-vers-ton-certif](https://directory.opquast.com/fr/certificat/8WI3MV/)) **Opquast Advanced** (840/1000) - Certification Opquast - Maîtrise de la Qualité en projet Web  
 [![Acess42](badge-acess42.png)]([lien-vers-ton-certif](https://certificate.bcdiploma.com/check/952F7562DF5290637800399B9190EB574369556E05DE807931D39567928D9801SzRIeEVOMWxiMlMrbGNCSVErcnJTbjd6SnkzaUZsU2xYOUJMOEJ0TUdvMnMybHNS)) **Acess42** - Développer des sites web accessibles et conformes au RGAA 
 
 ---
 
-## 🚀 Projets phares
+## Projets phares
 
 ### [📝 QuizGen AI](https://github.com/yassine-mahjoubi/quiz)
 Générateur de quiz intelligent basé sur l'IA avec galerie communautaire. Partage et réutilise des quiz au format JSON.
@@ -31,7 +31,7 @@ Application éducative explorant les biais cognitifs avec système de recherche 
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Frontend:** Vue 3 · Nuxt (en cours) · HTML/CSS  
 **Qualité:** RGAA · WCAG · Opquast · Lighthouse  
@@ -39,6 +39,6 @@ Application éducative explorant les biais cognitifs avec système de recherche 
 
 ---
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/yassine-mahjoubi/) · [Card](https://yassine-mahjoubi.carrd.co/)
