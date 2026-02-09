@@ -16,7 +16,7 @@
 ### [QuizGen AI](https://github.com/yassine-mahjoubi/quiz)
 Générateur de quiz intelligent basé sur l'IA avec galerie communautaire. Partage et réutilise des quiz au format JSON.
 
-**Tech:** Vue.js · Supabase · API Gemini · JSON · RGAA
+**Tech:** Vue.js · Typescript · Supabase · API Gemini · JSON · APIrest · RGAA · pico.css
 
 [🔗 Démo live](https://yassine-mahjoubi-quiz-ia-generator.netlify.app/) | [📂 Code](https://github.com/yassine-mahjoubi/quiz)
 
@@ -25,7 +25,7 @@ Générateur de quiz intelligent basé sur l'IA avec galerie communautaire. Part
 ### [Biais Cognitifs](https://github.com/yassine-mahjoubi/biais-cognitifs)
 Wep app éducative explorant les biais cognitifs avec système de recherche et découverte aléatoire.
 
-**Tech:** Vue.js · UX  · JSON · RGAA
+**Tech:** Vue.js · Typescript · UX  · JSON · RGAA · APIrest
 
 [🔗 Démo live](https://yassine-mahjoubi.github.io/biais-cognitifs/) | [📂 Code](https://github.com/yassine-mahjoubi/biais-cognitifs)
 
