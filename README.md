@@ -11,7 +11,7 @@
 
 ---
 
-## Projets phares
+## Projets perso en cours
 
 ### [QuizGen AI](https://github.com/yassine-mahjoubi/quiz)
 Générateur de quiz intelligent basé sur l'IA avec galerie communautaire. Partage et réutilise des quiz au format JSON.
